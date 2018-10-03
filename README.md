@@ -1,6 +1,6 @@
 # IQPuzzlerPro
 
-CS319 Section 1 Group I 
+CS319 Section 1 Group I
 
 Group name: Unknown
 

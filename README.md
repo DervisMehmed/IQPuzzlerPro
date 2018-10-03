@@ -1,14 +1,19 @@
 # IQPuzzlerPro
 
 CS319 Section 1 Group I 
+
 Group name: Unknown
 
 # Group Members
 
 Zeynep Ayça Çam - 21502269
+
 Elif Beril Şaylı - 21502795
+
 Zeynep Hande Arpakuş - 21501525
+
 Derviş Mehmed Barutçu - 21302589
+
 Giray Baha Keser - 21301937
 
 # Project Description

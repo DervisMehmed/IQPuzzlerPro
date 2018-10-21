@@ -14,7 +14,7 @@ Zeynep Hande Arpakuş - 21501525
 
 Derviş Mehmed Barutçu - 21302589
 
-Giray Baha Keser - 21301937
+Giray Baha Kezer - 21301937
 
 # Project Description
 

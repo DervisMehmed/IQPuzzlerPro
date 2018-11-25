@@ -1,1 +1,1 @@
-This file includes teh codes of the first iteration.
+This file includes the codes of the first iteration.
